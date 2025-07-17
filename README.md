@@ -1,46 +1,87 @@
-# 👋 Hi, I'm Varun V M
+# 👋 Hello, I'm Varun Mani .V.M.
 
-🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 Full-Stack Developer | 🎨 3D Artist
+🎓 MCA Graduate | 🧠 Passionate about Data & Full-Stack Projects | 💡 Always Learning
 
-Welcome to my GitHub profile! I'm a tech enthusiast from Chennai, India, with a passion for coding, data, and creativity. I enjoy building solutions that combine functionality with design—whether it's analyzing data, building web apps, or creating 3D animations.
-
----
-
-## 🔧 Tech Stack & Tools
-- **Languages:** Python, Java, JavaScript, HTML, CSS, SQL
-- **Frameworks & Libraries:** React.js, Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Power BI, Excel, Git, GitHub, Blender, Animaker
+Welcome to my GitHub! I'm focused on building practical, user-friendly, and data-driven applications using modern tech tools.
 
 ---
 
-## 🧠 Current Focus
-- Deepening my skills in **Data Analysis & Visualization**
-- Working on **full-stack web applications**
-- Learning advanced **Python & SQL for analytics**
+## 🚀 Projects Showcase
+
+### 🔮 Gold Price Prediction using Machine Learning
+A Streamlit-based web app that predicts gold prices using machine learning algorithms like **Random Forest**, **Lasso Regression**, and **XGBoost**.  
+It analyzes financial indicators such as SPX, SLV, USO, and EUR/USD to make predictions.
+
+- 📊 Feature Importance Visualization  
+- 📈 Actual vs. Predicted Chart  
+- 📁 Upload CSV for Batch Prediction  
+- 🌐 Hosted via Streamlit Cloud
+
+🔗 [Live Demo](https://goldprice-predict.streamlit.app/)  
+📂 [Source Code](https://github.com/varunmani004/gold_price_prediction)
 
 ---
 
-## 🚀 Projects
+### 🍫 Chocolate Sales Dashboard
+A clean and interactive dashboard created using **Excel and Power BI**, analyzing sales data of a chocolate brand.  
+Features include:
 
-### 📊 [Sales Data Dashboard](#)
-A dynamic dashboard using Power BI, Excel, and SQL to track KPIs, analyze trends, and drive better business decisions.
+- 💹 Monthly and Category-wise Sales Analysis  
+- 🌍 Region-wise Performance Insights  
+- 📦 Top-Selling Products  
+- 📈 Trendlines and Filter Controls
 
-### 🛍️ [Gifty-fyy E-commerce Website](#)
-A React + Node.js based gift store featuring secure login, product browsing, cart, and order management.
-
-### 🚗 [3D Car Animation](#)
-High-quality 3D simulation created using Blender with realistic lighting, particle effects, and cinematic rendering.
-
----
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/varun-v-m-15may2004/)
-- 📧 Email: varumani926@gmail.com
-- 🖥️ [Portfolio Coming Soon!]
+📂 [Source Files](https://github.com/varunmani004/chocolate_sales_dashboard)
 
 ---
 
-> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
+### 🎁 Giftyfy – Custom Gift Store
+A mini full-stack e-commerce website where users can customize gifts like T-shirts, mugs, and keychains with images and text.
 
-Thanks for visiting my GitHub! ⭐ Feel free to explore my repositories and connect with me!
+- 🏠 Home + Products + Contact Pages  
+- 🖼️ Product Preview with Image Upload  
+- 🛒 Cart and Order Summary with Order ID  
+- 💾 Order details stored in MySQL  
+- 💻 Built using HTML, CSS, Bootstrap & Python (Flask)
+
+🔗 [Live Site (React version)](https://varunmani004.github.io/giftyfy-store/)  
+📂 [Source Code](https://github.com/varunmani004/giftyfy-store)
+
+---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunmani004&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunmani004&theme=react" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunmani004&layout=compact&theme=react" alt="Top Languages" width="48%" />
+</p>
+
+
+## 🧰 Tech Stack
+
+**Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
+**Frameworks:** Bootstrap, Flask, Streamlit, React (beginner)  
+**Tools:** Power BI, Excel, Git, GitHub, MySQL, VS Code  
+
+---
+
+## 📫 Connect with Me
+
+| Platform | Link |
+|----------|------|
+| LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
+| GitHub   | [github.com/varunmani004](https://github.com/varunmani004) |
+| Email    | your.email@example.com |
+
+---
+
+## 🌱 I'm currently learning...
+
+- Full-Stack Development (MERN & Django)
+- Data Storytelling using Power BI
+- Real-time deployment tools
+
+Thanks for visiting! ⭐
