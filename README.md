@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Varun Mani .V.M.
+# 👋 Hello, I'm Varun.V.M.
 
 🎓 MCA Graduate | 🧠 Passionate about Data & Full-Stack Projects | 💡 Always Learning
 
