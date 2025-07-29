@@ -72,9 +72,9 @@ A mini full-stack e-commerce website where users can customize gifts like T-shir
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
+| LinkedIn | [linkedin.com/in/your-profile](https://www.linkedin.com/in/varun-v-m-160a56224/) |
 | GitHub   | [github.com/varunmani004](https://github.com/varunmani004) |
-| Email    | your.email@example.com |
+| Email    | varunmani926@gmail.com |
 
 ---
 
